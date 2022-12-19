@@ -14,3 +14,6 @@ Primitive data types are all immutable:
 ## Mutable Types in Javascript
 - array
 - object 
+
+## Further Reading
+- https://www.zhenghao.io/posts/javascript-variables
